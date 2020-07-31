@@ -4,7 +4,7 @@ Therefore, i created this Block Breaker clone while taking the GameDev.tv Unity 
 
 ## Please Note
 I only added the code for this game, if interested in looking at this course check out this link:
-
 https://www.udemy.com/course/unitycourse/
 
+## Gameplay
 ![Block-Breaker](Demo/block_breaker.gif)
